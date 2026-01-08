@@ -18,7 +18,7 @@ The goal of this sprint is to build a basic cloud-based task management applicat
 
 3. Definition of Done (DoD)
 
-- Code is pushed to GitHub repository
+- A new feature of adding new task in the application was created successfuly and the Codes were pushed to GitHub repository
 - Feature works as expected
 - Pull Request is reviewed and merged
 - Documentation is updated
