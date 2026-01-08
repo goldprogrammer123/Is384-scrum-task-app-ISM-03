@@ -1,19 +1,29 @@
 
 print("hello")
- Scrum Overview – Cloud-Based Task Management App
+Scrum Overview – Cloud-Based Task Management App
 
  1. Scrum Roles
 
-| Name                          | Registration Number | Role           |
-|-------------------------------|---------------------|----------------|
-| Minael Kilonzo Nelson          | 32005/T.2023       | Product owner  |
-| Golden joackim haule          |    31837/T.2023     | Scrum Master   |
-| Efrem Valerian Mchau          | 30269/T.2023        | Developer 1    |
-| Nicolas Severine Mshana       | 32047/T.2023        | Developer 2    |
-| Nathanaeli Nesphory Thabiti   | 31407/T.2023        | Developer 3    |
-| Mustapha Bakari Rashidi       | 30609/T.2023        | Developer 4    |
-| Abdalah Abdalah Athumani      | 31601/T.2023        | Developer 5    |
+- **Product Owner:** Minael Kilonzo Nelson (32005/T.2023)  
+  Responsible for defining and prioritizing all tasks in the product backlog.
 
+- **Scrum Master:** Golden Joackim Haule (31837/T.2023)  
+  Responsible for coordinating the sprint, facilitating Scrum events, and removing blockers.
+
+- **Developer 1:** Efrem Valerian Mchau (30269/T.2023)  
+  Responsible for implementing the **Add new task** feature.
+
+- **Developer 2:** Nicolas Severine Mshana (32047/T.2023)  
+  Responsible for implementing the **Assign task to user** feature.
+
+- **Developer 3:** Nathanaeli Nesphory Thabiti (31407/T.2023)  
+  Responsible for implementing the **Mark task complete** feature.
+
+- **Developer 4:** Mustapha Bakari Rashidi (30609/T.2023)  
+  Responsible for implementing the **Display task list** feature.
+
+- **Developer 5:** Abdalah Abdalah Athumani (31601/T.2023)  
+  Responsible for implementing the **Notifications** feature.
 
 2. Scrum Events
 
