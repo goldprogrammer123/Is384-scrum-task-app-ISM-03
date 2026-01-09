@@ -23,7 +23,6 @@ Group Members and Roles
 
 
 
-
 Scrum Simulation
 - One sprint executed
 - Multiple Git branches created
