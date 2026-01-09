@@ -22,3 +22,6 @@ The goal of this sprint is to build a basic cloud-based task management applicat
 - Feature works as expected
 - Pull Request is reviewed and merged
 - Documentation is updated
+
+RECOMMENDATION
+-I have seen all the plans and are good you can procced with the implementation 
