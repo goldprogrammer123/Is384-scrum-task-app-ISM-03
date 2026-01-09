@@ -24,3 +24,5 @@ This project is a cloud-based task management application developed using Scrum 
 - Multiple Git branches created
 - Pull Requests merged to main branch
 - Contributions from all members
+
+- <Nathanaeli Nesphory Thabiti> – Developer 3 (Mark Task Complete)

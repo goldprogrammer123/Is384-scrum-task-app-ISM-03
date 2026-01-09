@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 26901e994351cd9da728f59b90864fb6b7b2af72
 Scrum Overview – Cloud-Based Task Management App
 
  1. Scrum Roles
@@ -35,8 +38,8 @@ Sprint Planning
  Daily Scrum
 - 15-minute daily meeting.
 - Each member answers:
-  - What did I do yesterday?
-  - What will I do today?
+  - What did everymember  do for the application development the day before?
+  - What will everymember do for the application development today?
   - Any blockers?
 
 
