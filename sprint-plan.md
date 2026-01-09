@@ -26,3 +26,4 @@ The goal of this sprint is to build a basic cloud-based task management applicat
 RECOMMENDATION
 -I have seen all the plans and are good you can procced with the implementation 
 -Prioritize key features first
+-Plan for quality and future growth
