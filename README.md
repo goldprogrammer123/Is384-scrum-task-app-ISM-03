@@ -1,15 +1,7 @@
-Cloud-Based Task Management App
-
-Course
-IS 384 – Cloud and DevOps
-
- Project Description
-This project is a cloud-based task management application developed using Scrum methodology. The application allows users to create tasks, assign them to users, and track task completion.
+**Cloud-Based Task Management App**
 
 
-
-Group Members and Roles
-
+**Group Members and Roles**
 
 | Name                          | Registration Number | Role           |
 |-------------------------------|---------------------|----------------|
@@ -23,7 +15,11 @@ Group Members and Roles
 
 
 
-Scrum Simulation
+**Project Description**
+This project is a cloud-based task management application developed using Scrum methodology. The application allows users to create tasks, assign them to users, and track task completion.
+
+
+**Scrum Simulation**
 - One sprint executed
 - Multiple Git branches created
 - Pull Requests merged to main branch
